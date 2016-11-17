@@ -1,2 +1,3 @@
-# disqus
-disqus
+# sakupintar
+
+js script sakupintar.blogspot.com
